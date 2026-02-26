@@ -11,10 +11,14 @@
             "id": "1dfc1f8f1cd6a96f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hi.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hi"
             }
           }
         ]
@@ -162,5 +166,7 @@
     }
   },
   "active": "1dfc1f8f1cd6a96f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Hi.md"
+  ]
 }
